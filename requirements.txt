@@ -1,0 +1,6 @@
+pymongo
+tqdm
+flask
+flask_cors
+flask_restful
+lightutils
